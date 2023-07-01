@@ -1,2 +1,2 @@
 # CodingDen
-Code blogging website using HTML + CSS + Bootstrap
+Code blogging website using HTML + CSS + Bootstrap.
